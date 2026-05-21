@@ -6,10 +6,8 @@
 ## Módulo de Perfil de Usuario
 - Modificación de datos de usuario.
 
-<<<<<<< HEAD
 ## Módulo de Seguridad y Cifrado
 - Encriptación de datos sensibles de usuario.
-=======
 ## Módulo de Pasarela de Pago
 - Integración con pasarelas de pago seguro.
 >>>>>>> d9dd88c (feat(payment): implement credit card checkout processor)
